@@ -1,5 +1,16 @@
 # Chat App
 
-Used technologies: JS (ES6), React.
+1. [Link to hosted Chat App](https://arthur199212.github.io/chat-app/)
+2. Used technologies: JS (ES6), React, WebSocket API.
 
-[Link to hosted Chat App](https://arthur199212.github.io/chat-app/)
+### Description
+
+The app is my implementation of simple chat. It was made with WebSocket. You can log in and your nick-name will be saved in localStorage (moreover you can log out if you want). Here I used Material UI components for styling the app. The app has a responsive design.
+
+### Welcome Page
+
+![login page](https://lh3.googleusercontent.com/ggb98lneiVve0wKaa51KJPKHrE50xUkvK8EFnqwwtQxXW836ppVibbQxLMaMCd0SZ48uIP64APJRl91AaQKHr_PXm-uj0qUPzGlNRaB5u3kUIZua-9tIU-M6MgbidnuqCJ5M_nBlagjelHOOlUFmh1apX_WhE7XXvILKoY0dSDtCb4U7EDw32-NiQ6cOAgZ3YVD3YQaXq1jJK2E42NZxmyGynQmmp6ygvnAfzDTgr_cVg1_nu5t_dUKW39UGJg95rvaQXaJir1VFK7JN9ikp0tZ7Vgsz4IQq-9K0wwcRFQhnKTNQBQVWbNrFQBsisY9wyFLvoSnqa0XfcgpBZbueEg3vQvjFA0NOVxsGZ7CmMqKheUJ2UfcbJTf_oQ_1WEIh5Ync6JXbl_yu2_t02qpUFcWUR175_PvTdWk30ZU5c-EVxT2sRK6LbL_DcAdQL8_OAEbzEnpptPP4tVBNoTpXQOZNwLXX-h05g7CEIpZVNgk_zcLaH4P9oUWxeki1FPJHA1MagST3Az0z9MAkzuYdR7DcC4ACw9uqKGttJgPl5cnbO5p-2XXZdBi25AWdp8bDLbnTnuGEoGUdnBx314Cfkn80boGBjGX-kYD7tXr5lOD9OAKTVsVA4WOWqf5krN9yzvmOLdxxJnSgUBoe_Em13gInc8BYet3mdypPjdCrxo9MJqXcnzU7KTAaM-jwIQ_oVBvifxFENFj9LJjZgevLDNW1=w1096-h526-no)
+
+### Chat Window
+
+![chat window](https://lh3.googleusercontent.com/a6wcL0snFh3FHSQNfdB3e7POifDzIRy4jMkU63wwaBpQR6ykgkbyYOYTKUXMdg3lwY8nO6XaCiXJqNr65Ex7FpoRWkwdzsDx5jHYv9CjxkcLtBvdDMWIVkKWshOSjzeRSZHWPbVUIFz7sBrF-Jq88_T99fvRE5ZEIiS9GBoJ9Odt_V24OGRlxkREk-VjxLQtjDnWarGFd-5170cU6hzwVqiIeeTQIJPZ7sWeGnvuMWixhyTC38A_tk3D6-M0iG_68YFgATleUH3QXrhYLlOPzNy6k3hrqYFazXMF9uQ0WP9q_kQ8M6I217GwD2uVxvTHAp_p0fKmJiParPUVf1V1f-JqGB6Agae9MLs-gs9VjkRxN8GdYq-grkL5pNlGxpOfxJZNEBldw4pNuxi2b9amoWHxMaGZtijPmfjbIzjuAogcffkRbWd5AbZnTqpW5zBpDVUvFMpypzxxvuf97kmspRbBuuYVK8XrqWFggIChXjN0tnged_LXxMLUBSu55MHWZMOixutXlZu4EiKg1_Zh2VJePi0Fyuddl3RfL5-izBqBuzQ9iutgPtL5gy8gH2GJbhbXHZhlguULI9-3USJx6tnUvqIm86bRcEMdpo06P91F1Ad4gxMlP11XkTdwGaoWV-C7K885GX7sd41Mni6wrZkgNf2GGEY=w475-h627-no)
